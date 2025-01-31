@@ -9,8 +9,8 @@ const App = () => {
     <>
       {/* <ChangeTitle /> */}
       {/* <Circuits /> */}
-      {/* <Counter /> */}
-      <Birthday />
+      <Counter />
+      {/* <Birthday /> */}
     </>
   );
 };
